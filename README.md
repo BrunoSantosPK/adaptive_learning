@@ -1,8 +1,6 @@
 # Adaptive Learning
 *Projeto criado para o desafio do Sigma Geek entitulado "O Desafio de Aprendizagem Adaptativa", disponível [aqui](https://sigmageek.com/challenge/the-adaptive-learning-challenge-1659401106436x437495826561630200).*
 
-> IMPORTANTE: Projeto em andamento.
-
 ## Objetivo
 
 Dentro de um contexto preparatório de concursos, o treinamento mais comum é por meio de simulados, ou seja, aprendizagem por repetição. Pelo senso comum, quanto mais repetições, maior o aprendizado. Todavia, esta será que é uma afirmação verdadeira? Será que existe uma quantidade de resolução tal qual garante o máximo aprendizado?
